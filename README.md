@@ -6,7 +6,7 @@ quick6response/quick6response** is a ✨ _special_ ✨ repository because its `R
 Here are some ideas to get you started:
 
 #### Немного интересной статистики
-[![wakatime](https://wakatime.com/badge/user/@0ceceb1a-551b-47d3-880d-2fa2dc3a45d7.svg)](https://wakatime.com/@0ceceb1a-551b-47d3-880d-2fa2dc3a45d7) с марта 2023 года
+[![wakatime](https://wakatime.com/badge/user/@quick6response.svg)](https://wakatime.com/@quick6response) с марта 2023 года
 
 [![Nikita Koshelenko's Wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=quick6response&theme=dark&locale=ru#gh-dark-mode-only)](https://github.com/quick6response/quick6response#gh-dark-mode-only)
 [![Nikita Koshelenko's Wakatime stats-Light](https://github-readme-stats.vercel.app/api/wakatime?username=quick6response&theme=light&locale=ru#gh-light-mode-only)](https://github.com/quick6response/quick6response#gh-light-mode-only)
